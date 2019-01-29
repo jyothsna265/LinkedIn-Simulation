@@ -65,7 +65,7 @@ API Testing | Mocha
  
 Screenshots
 1.	Login Page
- 
+ ![Image1](LinkedIn-Simulation/frontend/public/Images/Screen Shot 2019-01-29 at 2.14.19 PM.png)
 2.	Homepage
  
 3.	People Search 
