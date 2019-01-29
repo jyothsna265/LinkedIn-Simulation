@@ -49,7 +49,7 @@ Recruiter/Admin Module:
 
 Technology Stack
 ----------------
- 
+ ![Mern stack](https://user-images.githubusercontent.com/31905103/33642126-564d7392-d9ed-11e7-9bcf-a7cc6daa17e8.PNG)
 
 Domain	Technology
 
