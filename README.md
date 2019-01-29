@@ -12,20 +12,20 @@ LinkedIn Application is a business and employee-oriented service. It is mainly u
 
 Applicant Module:
 -----------------
-•	Create a LinkedIn account.
-•	Delete an existing Account.
-•	Change an applicant’s profile information.
-•	Upload a profile picture and update profile picture
-•	Display information about an applicant.
-•	Search listing for different jobs
-•	Search Jobs/Companies
-•	Filter based on location, Job type, industry and so on (Same as LinkedIn)
-•	Apply for a Job
-•	Save a job and apply it later.
-•	Send/Receive messages
-•	Make/Accept Connections
-•	View list of connections.
-•	Log Out
+1. Create a LinkedIn account.
+2. Delete an existing Account.
+3. Change an applicant’s profile information.
+4. Upload a profile picture and update profile picture
+5. Display information about an applicant.
+6. Search listing for different jobs
+7. Search Jobs/Companies
+8. Filter based on location, Job type, industry and so on (Same as LinkedIn)
+9. Apply for a Job
+10. Save a job and apply it later.
+11. Send/Receive messages
+12. Make/Accept Connections
+13. View list of connections.
+14. Log Out
 
 Recruiter/Admin Module:
 -----------------------
