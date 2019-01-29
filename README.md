@@ -29,29 +29,27 @@ Applicant Module:
 
 Recruiter/Admin Module:
 -----------------------
-•	Allow only the authorized (admin user) to access Module.
-•	Add Job Posting to the systems.
-•	Search for job postings and edit it.
-•	View/Modify his/her account
-•	View posted applications and also resumes.
-•	Send/Receive messages.
-•	Make/Accept Connections.
-•	View list of connections
-•	View Admin Reports such as:
-o	First 10 job postings with its applications/month.
-o	City wise applications/month.
-o	Top 5 job postings with a lesser number of applications.
-o	Clicks per job posting.
-o	Graph for number of saved jobs.
-o	Graph for profile views/day.
-o	Trace diagram for tracking one user or a group of users.
-•	Log out
+1. Allow only the authorized (admin user) to access Module.
+2. Add Job Posting to the systems.
+3. Search for job postings and edit it.
+4. View/Modify his/her account
+5. View posted applications and also resumes.
+6. Send/Receive messages.
+7. Make/Accept Connections.
+8. View list of connections
+9. View Admin Reports such as:
+    1. First 10 job postings with its applications/month.
+    2. City wise applications/month.
+    3. Top 5 job postings with a lesser number of applications.
+    4. Clicks per job posting.
+    5. Graph for number of saved jobs.
+    6. Graph for profile views/day.
+    7. Trace diagram for tracking one user or a group of users.
+10. Log out
 
 Technology Stack
 ----------------
  
-https://user-images.githubusercontent.com/31905103/33642126-564d7392-d9ed-11e7-9bcf-a7cc6daa17e8.PNG
-
 
 Domain	Technology
 
