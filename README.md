@@ -51,6 +51,18 @@ Technology Stack
 ----------------
  ![Mern stack](https://user-images.githubusercontent.com/31905103/33642126-564d7392-d9ed-11e7-9bcf-a7cc6daa17e8.PNG)
 
+Domain	 | Technology
+-------- | -----------
+Front End | React JS / Redux
+Back End | Node JS
+UI	| Bootstrap, React Bootstrap, Material UI
+Database | MongoDB & MySQL
+Authentication | 	Passport JS
+Middleware |	Kafka
+Graphs	| React-chartist
+Load Testing | 	JMeter
+API Testing | Mocha
+
 Domain	Technology
 
 Front End	React JS / Redux
