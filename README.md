@@ -62,18 +62,6 @@ Middleware |	Kafka
 Graphs	| React-chartist
 Load Testing | 	JMeter
 API Testing | Mocha
-
-Domain	Technology
-
-Front End	React JS / Redux
-Back End	Node JS
-UI	Bootstrap, React Bootstrap, Material UI
-Database	MongoDB & MySQL
-Authentication	Passport JS
-Middleware	Kafka
-Graphs	React-chartist
-Load Testing	JMeter
-API Testing	Mocha
  
 Screenshots
 1.	Login Page
