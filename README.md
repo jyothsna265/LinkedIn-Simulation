@@ -64,28 +64,48 @@ Load Testing | 	JMeter
 API Testing | Mocha
  
 Screenshots
+-----------
 1.	Login Page
+
  ![Image1](https://github.com/jyothsna265/LinkedIn-Simulation/blob/master/frontend/public/Images/Screen%20Shot%202019-01-29%20at%202.14.19%20PM.png)
+ 
 2.	Homepage
+
+ ![Image2] (https://github.com/jyothsna265/LinkedIn-Simulation/blob/master/frontend/public/Images/Screen%20Shot%202019-01-29%20at%202.16.49%20PM.png)
  
 3.	People Search 
- 
+
+![Image 3] (https://github.com/jyothsna265/LinkedIn-Simulation/blob/master/frontend/public/Images/Screen%20Shot%202019-01-29%20at%202.16.59%20PM.png)
+
 4.	Job Search 
- 
+
+![Image 4] (https://github.com/jyothsna265/LinkedIn-Simulation/blob/master/frontend/public/Images/Screen%20Shot%202019-01-29%20at%202.17.05%20PM.png)
+
 5.	Messaging
+
+ ![Image 5] (https://github.com/jyothsna265/LinkedIn-Simulation/blob/master/frontend/public/Images/Screen%20Shot%202019-01-29%20at%202.17.11%20PM.png)
  
 6.	Apply for Job Page 
+
+ ![Image 6] (https://github.com/jyothsna265/LinkedIn-Simulation/blob/master/frontend/public/Images/Screen%20Shot%202019-01-29%20at%202.17.17%20PM.png)
  
+ ![Image 7] (https://github.com/jyothsna265/LinkedIn-Simulation/blob/master/frontend/public/Images/Screen%20Shot%202019-01-29%20at%202.17.26%20PM.png)
  
 7.	Search results
- 
+
+![Image 8] (https://github.com/jyothsna265/LinkedIn-Simulation/blob/master/frontend/public/Images/Screen%20Shot%202019-01-29%20at%202.17.32%20PM.png)
+
 8.	Connections
+
+! [Image 9] (https://github.com/jyothsna265/LinkedIn-Simulation/blob/master/frontend/public/Images/Screen%20Shot%202019-01-29%20at%202.17.55%20PM.png)
  
 9.	Job Posting
  
+ ![Image 10] (https://github.com/jyothsna265/LinkedIn-Simulation/blob/master/frontend/public/Images/Screen%20Shot%202019-01-29%20at%202.18.03%20PM.png)
 
 10.	Statistics
- 
- 
 
+![Image 11] (https://github.com/jyothsna265/LinkedIn-Simulation/blob/master/frontend/public/Images/Screen%20Shot%202019-01-29%20at%202.18.25%20PM.png)
 
+![Image 12] (https://github.com/jyothsna265/LinkedIn-Simulation/blob/master/frontend/public/Images/Screen%20Shot%202019-01-29%20at%202.18.33%20PM.png)
+ 
